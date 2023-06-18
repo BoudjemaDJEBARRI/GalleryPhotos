@@ -1,5 +1,6 @@
 {
   "name": "photo-gallery",
+  "id": "com.example.photogallery111",
   "integrations": {
     "capacitor": {}
   },
